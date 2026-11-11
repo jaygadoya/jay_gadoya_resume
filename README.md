@@ -1,6 +1,4 @@
-<div align="center">
 **Jay Gadoya**
-</div>
 
 **Data Engineer**
 
