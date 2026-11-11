@@ -1,5 +1,5 @@
-<div align:center;>
-Jay Gadoya
+<div align="center">
+**Jay Gadoya**
 </div>
 
 **Data Engineer**
